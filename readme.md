@@ -1,11 +1,11 @@
 # Corona Virus Count Worldwide
 
 **Worldwide Stats**
-![none](http://url/to/img.png)
+![none](https://github.com/truthfool/corona-virus-tracker/blob/master/samples/img1.png)
 
 **Specific Country**
-![none](http://url/to/img.png)
+![none](https://github.com/truthfool/corona-virus-tracker/blob/master/samples/img2.png)
 
 Ex:India
 
-Source : [](https://www.worldometers.info/coronavirus/)
+Source : [Link](https://www.worldometers.info/coronavirus/)
