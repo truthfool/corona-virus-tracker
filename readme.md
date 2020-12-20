@@ -6,6 +6,6 @@
 **Specific Country**
 ![none](https://github.com/truthfool/corona-virus-tracker/blob/master/samples/img2.png)
 
-Ex:India
+Ex: **India**
 
-Source : [Link](https://www.worldometers.info/coronavirus/)
+Source : [https://www.worldometers.info/coronavirus/]()
